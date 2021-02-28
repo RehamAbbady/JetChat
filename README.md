@@ -64,7 +64,8 @@ contains user details:
 * slim
 ## Installation
 run composer install in the root directory of the project.
-make sure that the database directory in the config.php file is correct
+make sure that the database directory in the config.php file is correct.
+the database is already populated with users and some messages to make testing easier.
 ## API endpoints
 authentication: basic authentication header (username and password)
 ### Get Messages
