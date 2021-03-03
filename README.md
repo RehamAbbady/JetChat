@@ -1,7 +1,7 @@
 # JetChat
 
 Hi!
-JetChat is a messaging API, it is implemented for bunq's back-end developer assignment
+JetChat is a messaging API>.
 ## Details
 the API has two functionalities:
 it sends and receives messages.
