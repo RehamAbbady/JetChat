@@ -1,7 +1,7 @@
 # JetChat
 
 Hi!
-JetChat is a messaging API>.
+JetChat is a messaging API.
 ## Details
 the API has two functionalities:
 it sends and receives messages.
